@@ -11,6 +11,9 @@ http://iphome.hhi.de/suehring/
 ### 1.3 H264开源编码器x264官网：
 https://www.videolan.org/developers/x264.html
 
+### 1.4 H264开源编解码器openH264
+http://www.openh264.org/
+
 ## 二.包括H265/HEVC官方提案网站，HM参考软件以及学习书籍和paper
 
 ### 2.1 HEVC提案下载网址：
@@ -34,3 +37,5 @@ https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/tree/master
 
 ### 4.1.ffmpeg软件官网：
 http://www.ffmpeg.org/
+
+### 4.2 微信公众号“手撕编解码”
