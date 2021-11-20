@@ -19,7 +19,7 @@ https://hevc.hhi.fraunhofer.de/
 https://www.videolan.org/developers/x265.html
 ### 2.4 HEVC开源编码器Kvazaar网址：
 https://github.com/ultravideo/kvazaar
-### 2.5 新一代高效视频编码H.265,HEVC原理、标准与实现[万帅，杨付正]
+### 2.5 新一代高效视频编码H.265,HEVC原理、标准与实现[万帅，杨付正].pdf
 链接:https://pan.baidu.com/s/1XylZ8v3FI0cuvQ3FeKFYfw 
 提取码:93d7
 
