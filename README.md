@@ -1,7 +1,7 @@
 # 视频编解码学习资料
 
 ## 一.包括H264/AVC官方提案网站，JM参考软件以及学习书籍和paper
-### 1.1 H264视频编码标准提案下载网址：
+### 1.1 H264视频编码标准提案下载网址：  
 https://www.itu.int/wftp3/av-arch/jvt-site/
 ### 1.2 H264参考软件JM的官方网址：
 http://iphome.hhi.de/suehring/
