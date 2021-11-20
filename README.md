@@ -17,6 +17,8 @@ http://phenix.int-evry.fr/jct/
 https://hevc.hhi.fraunhofer.de/
 ### 2.3 HEVC开源编码器x265下载网址：
 https://www.videolan.org/developers/x265.html
+### 2.4 HEVC开源编码器Kvazaar网址：
+https://github.com/ultravideo/kvazaar
 
 ## 三.包括H266/VVC官方提案网站，VTM参考软件以及学习书籍和paper
 ### 3.1 VVC提案下载网址：
