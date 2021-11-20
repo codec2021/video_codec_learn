@@ -20,7 +20,8 @@ https://www.videolan.org/developers/x265.html
 ### 2.4 HEVC开源编码器Kvazaar网址：
 https://github.com/ultravideo/kvazaar
 ### 2.5 新一代高效视频编码H.265,HEVC原理、标准与实现[万帅，杨付正]
-链接:https://pan.baidu.com/s/1XylZ8v3FI0cuvQ3FeKFYfw 提取码:93d7
+链接:https://pan.baidu.com/s/1XylZ8v3FI0cuvQ3FeKFYfw 
+提取码:93d7
 
 ## 三.包括H266/VVC官方提案网站，VTM参考软件以及学习书籍和paper
 ### 3.1 VVC提案下载网址：
