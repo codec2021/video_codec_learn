@@ -1,6 +1,0 @@
-H264视频编码标准提案下载网址：
-https://www.itu.int/wftp3/av-arch/jvt-site/
-
-H264参考软件JM的官方网址：
-http://iphome.hhi.de/suehring/
-
