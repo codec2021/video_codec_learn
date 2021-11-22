@@ -32,4 +32,16 @@ https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/tree/master
 ## 四.开源软件
 ### 4.1.ffmpeg软件官网：
 http://www.ffmpeg.org/
-### 4.2 微信公众号“手撕编解码”
+
+## 五.博客
+### 5.1
+https://www.streamingmedia.com/Articles/MoreNews.aspx?ContextSubtypeID=779&CategoryID=422
+### 5.2 
+https://www.wowza.com/blog
+### 5.3 
+https://vicuesoft.com/blog/
+### 5.4 
+https://aws.amazon.com/cn/blogs/media/
+### 5.5
+https://www.livevideostack.cn/
+
