@@ -34,14 +34,14 @@ https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/tree/master
 http://www.ffmpeg.org/
 
 ## 五.博客
-### 5.1
+### 5.1 音视频领域的权威媒体Streaming Media
 https://www.streamingmedia.com/Articles/MoreNews.aspx?ContextSubtypeID=779&CategoryID=422
-### 5.2 
+### 5.2 流媒体服务器
 https://www.wowza.com/blog
-### 5.3 
+### 5.3 码流分析软件
 https://vicuesoft.com/blog/
-### 5.4 
+### 5.4 亚马逊
 https://aws.amazon.com/cn/blogs/media/
-### 5.5
+### 5.5 中文音视频技术交流平台
 https://www.livevideostack.cn/
 
