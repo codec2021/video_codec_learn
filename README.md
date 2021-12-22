@@ -1,7 +1,7 @@
 # 视频编解码学习资料
 
 ## 一.包括H264/AVC官方提案网站，JM参考软件以及学习书籍和paper
-### 1.1 H264 spec下载网址：
+### 1.1 H264 spec（白皮书）下载网址：
 https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=13189
 ### 1.2 H264视频编码标准提案下载网址：  
 https://www.itu.int/wftp3/av-arch/jvt-site/
@@ -13,15 +13,17 @@ https://www.videolan.org/developers/x264.html
 http://www.openh264.org/
 
 ## 二.包括H265/HEVC官方提案网站，HM参考软件以及学习书籍和paper
-### 2.1 HEVC提案下载网址：
+### 2.1 H265 spec（白皮书）下载网址：
+https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=14660&lang=en
+### 2.2 HEVC提案下载网址：
 http://phenix.int-evry.fr/jct/
-### 2.2 HEVC参考软件网址：
+### 2.3 HEVC参考软件网址：
 https://hevc.hhi.fraunhofer.de/
-### 2.3 HEVC开源编码器x265下载网址：
+### 2.4 HEVC开源编码器x265下载网址：
 https://www.videolan.org/developers/x265.html
-### 2.4 HEVC开源编码器Kvazaar网址：
+### 2.5 HEVC开源编码器Kvazaar网址：
 https://github.com/ultravideo/kvazaar
-### 2.5 新一代高效视频编码H.265,HEVC原理、标准与实现[万帅，杨付正].pdf
+### 2.6 新一代高效视频编码H.265,HEVC原理、标准与实现[万帅，杨付正].pdf
 链接:https://pan.baidu.com/s/1XylZ8v3FI0cuvQ3FeKFYfw 
 提取码:93d7
 
