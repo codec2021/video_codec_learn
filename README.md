@@ -12,7 +12,7 @@ https://www.videolan.org/developers/x264.html
 ### 1.5 H264开源编解码器openH264
 http://www.openh264.org/
 ### 1.6 Iain Richardson的主页
-https://www.vcodex.com/resources/
+https://www.vcodex.com/h264-resources/
 
 ## 二.包括H265/HEVC官方提案网站，HM参考软件以及学习书籍和paper
 ### 2.1 H265 spec（白皮书）下载网址：
