@@ -40,19 +40,20 @@ https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/tree/master
 http://www.ffmpeg.org/
 
 ## 五.博客
-### 视频编解码使用FFmpeg的命令
-https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247485373&idx=1&sn=3b4562299f00b7b9c4e0de23f5c3df53&chksm=c06f1622f7189f34f4be0556a879ed5e1d41d4593891a42e0a76576bf3eaf58079eba53b45f7&token=1876084740&lang=zh_CN#rd
-### 5.1 芯片SOC视频编解码论坛
+### 5.1 doom9
+https://forum.doom9.org/
+### 5.2 芯片SOC视频编解码论坛
 https://www.ebaina.com/
-### 5.2 音视频领域的权威媒体Streaming Media
+### 5.3 音视频领域的权威媒体Streaming Media
 https://www.streamingmedia.com/Articles/MoreNews.aspx?ContextSubtypeID=779&CategoryID=422
-### 5.3 流媒体服务器
+### 5.4 流媒体服务器
 https://www.wowza.com/blog
-### 5.4 码流分析软件
+### 5.5 码流分析软件
 https://vicuesoft.com/blog/
-### 5.5 亚马逊
+### 5.6 亚马逊
 https://aws.amazon.com/cn/blogs/media/
-### 5.6 中文音视频技术交流平台
+### 5.7 中文音视频技术交流平台LiveVideoStack
 https://www.livevideostack.cn/
-
+### 5.8 视频编解码使用FFmpeg的命令
+https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247485373&idx=1&sn=3b4562299f00b7b9c4e0de23f5c3df53&chksm=c06f1622f7189f34f4be0556a879ed5e1d41d4593891a42e0a76576bf3eaf58079eba53b45f7&token=1876084740&lang=zh_CN#rd
 
