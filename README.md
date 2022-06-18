@@ -30,16 +30,20 @@ https://github.com/ultravideo/kvazaar
 提取码:93d7
 
 ## 三.包括H266/VVC官方提案网站，VTM参考软件以及学习书籍和paper
-### 3.1 VVC官网
+### 3.1 H.266/VVC的ITU白皮书下载地址
+https://www.itu.int/itu-t/recommendations/rec.aspx?rec=14336
+### 3.2 VVC官网
 https://jvet.hhi.fraunhofer.de/
-### 3.2 VVC提案下载网址：
+### 3.3 VVC提案下载网址：
 https://jvet-experts.org/
-### 3.3 VVC参考软件VTM下载网址：
+### 3.4 VVC参考软件VTM下载网址：
 https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/tree/master
 
 ## 四.开源软件
 ### 4.1.ffmpeg软件官网：
 http://www.ffmpeg.org/
+### 4.2 跨平台码流分析工具
+https://github.com/IENT/YUView
 
 ## 五.博客
 ### 5.1 doom9
