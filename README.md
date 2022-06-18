@@ -11,7 +11,7 @@ http://iphome.hhi.de/suehring/
 https://www.videolan.org/developers/x264.html
 ### 1.5 H264开源编解码器openH264
 http://www.openh264.org/
-### 1.6 Iain Richardson的主页
+### 1.6 大牛Iain Richardson的主页
 https://www.vcodex.com/h264-resources/
 
 ## 二.包括H265/HEVC官方提案网站，HM参考软件以及学习书籍和paper
