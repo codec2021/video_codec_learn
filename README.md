@@ -39,27 +39,42 @@ https://jvet-experts.org/
 ### 3.4 VVC参考软件VTM下载网址：
 https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/tree/master
 
-## 四.开源软件
-### 4.1.ffmpeg软件官网：
+## 四.包括AV1官方提案网站，学习书籍和paper
+### 4.1 AOM官网
+https://aomedia.org/
+
+### 4.2 libaom代码
+https://aomedia.googlesource.com/aom/
+git clone https://aomedia.googlesource.com/aom
+
+https://github.com/mozilla/aom
+
+### 4.3 开源编码器SVT-AV1官网
+https://gitlab.com/AOMediaCodec/SVT-AV1
+强烈建议学习Technical Appendices部分的内容
+
+
+## 五.开源软件
+### 5.1.ffmpeg软件官网：
 http://www.ffmpeg.org/
-### 4.2 跨平台码流分析工具
+### 5.2 跨平台码流分析工具
 https://github.com/IENT/YUView
 
-## 五.博客
-### 5.1 x264和x265技术交流的专业论坛doom9
+## 六.博客
+### 6.1 x264和x265技术交流的专业论坛doom9
 https://forum.doom9.org/
-### 5.2 芯片SOC视频编解码论坛
+### 6.2 芯片SOC视频编解码论坛
 https://www.ebaina.com/
-### 5.3 音视频领域的权威媒体Streaming Media
+### 6.3 音视频领域的权威媒体Streaming Media
 https://www.streamingmedia.com/Articles/MoreNews.aspx?ContextSubtypeID=779&CategoryID=422
-### 5.4 流媒体服务器
+### 6.4 流媒体服务器
 https://www.wowza.com/blog
-### 5.5 码流分析软件
+### 6.5 码流分析软件
 https://vicuesoft.com/blog/
-### 5.6 亚马逊
+### 6.6 亚马逊
 https://aws.amazon.com/cn/blogs/media/
-### 5.7 中文音视频技术交流平台LiveVideoStack
+### 6.7 中文音视频技术交流平台LiveVideoStack(2024年已经停止运营)
 https://www.livevideostack.cn/
-### 5.8 视频编解码使用FFmpeg的命令
+### 6.8 视频编解码使用FFmpeg的命令
 https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247485373&idx=1&sn=3b4562299f00b7b9c4e0de23f5c3df53&chksm=c06f1622f7189f34f4be0556a879ed5e1d41d4593891a42e0a76576bf3eaf58079eba53b45f7&token=1876084740&lang=zh_CN#rd
 
