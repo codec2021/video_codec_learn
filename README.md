@@ -52,8 +52,11 @@ https://github.com/mozilla/aom
 
 ### 4.3 开源编码器SVT-AV1官网
 https://gitlab.com/AOMediaCodec/SVT-AV1
-强烈建议学习Technical Appendices部分的内容
 
+强烈建议学习Technical Appendices内容
+
+### 4.4 AV1码流分析
+https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247486236&idx=1&sn=dad0e7d91fd7d82cb239daf34e55b893&chksm=c06f1a83f7189395a587aa87d94bafa40d9c8a46fb0a4d644a9846446ca3831b7f5e0f324cd8&token=1633637104&lang=zh_CN#rd
 
 ## 五.开源软件
 ### 5.1.ffmpeg软件官网：
